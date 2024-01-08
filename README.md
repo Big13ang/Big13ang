@@ -8,7 +8,7 @@
   <a href="https://github.com/Big13ang/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20developer;React%20and%20Next%20JS%20Developer;18%2B%20months%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
- 
+
 <details open> 
   <summary><h2>📕 My Top Projects</h2></summary>
 
@@ -117,4 +117,10 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
+</details>
+
+<details open>
+  <!-- Spotify :) -->
+
+  [![Spotify](https://spotify-now-playing-ipiyaceo1-mmd-ayin.vercel.app/api/spotify)](https://open.spotify.com/user/31z4draopxax3fb7txladmkqrsqq)
 </details>
