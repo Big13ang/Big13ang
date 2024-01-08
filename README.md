@@ -120,6 +120,4 @@
 </details>
 
 <!-- Spotify :) -->
-<p align="center">
 [![Spotify](https://spotify-now-playing-git-main-mmd-ayin.vercel.app/api/spotify)](https://open.spotify.com/user/31z4draopxax3fb7txladmkqrsqq)
-</p>
