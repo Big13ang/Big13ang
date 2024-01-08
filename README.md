@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/Big13ang">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+    <img src="https://github.com/Big13ang/Big13ang/assets/75197403/8242c04a-a52e-4052-be78-b87992271003" alt="Mohammad Behesht Aien" />
+  </a>
 </p>
 
 <p align="center">
