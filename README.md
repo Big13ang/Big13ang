@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Big13ang/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20developer;React%20and%20Next%20JS%20Developer;18%2B%20months%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20developer;React%20&%20Next%20JS%20Developer;18%2B%20months%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <details open> 
@@ -113,6 +113,8 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Mohammad Behesht Aien's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Big13ang&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity--><!--END_SECTION:activity-->
 
 </details>
