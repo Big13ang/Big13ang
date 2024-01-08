@@ -119,8 +119,7 @@
 
 </details>
 
-<details open>
-  <!-- Spotify :) -->
-
-  [![Spotify](https://spotify-now-playing-ipiyaceo1-mmd-ayin.vercel.app/api/spotify)](https://open.spotify.com/user/31z4draopxax3fb7txladmkqrsqq)
-</details>
+<!-- Spotify :) -->
+<p align="center">
+[![Spotify](https://mmd-ayin.vercel.app/api/spotify)](https://open.spotify.com/user/31z4draopxax3fb7txladmkqrsqq)
+</p>
