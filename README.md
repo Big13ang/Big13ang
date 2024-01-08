@@ -112,11 +112,10 @@
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Mohammad Behesht Aien's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Big13ang&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-
+  
 </details>
 
 <!-- Spotify :) -->
