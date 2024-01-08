@@ -116,13 +116,11 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🚀 Published release [test](https://github.com/Big13ang/Digital-clock/releases/tag/test) in [Big13ang/Digital-clock](https://github.com/Big13ang/Digital-clock)
-<!--END_SECTION:activity-->
 
 </details>
 
 <!-- Spotify :) -->
-<h3>🎸Code Rhythms</h3>
+<h3>🎸 Code Rhythms</h3>
 
 [![Spotify](https://spotify-now-playing-git-main-mmd-ayin.vercel.app/api/spotify)](https://open.spotify.com/user/31z4draopxax3fb7txladmkqrsqq)
 
