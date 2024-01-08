@@ -112,14 +112,15 @@
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Mohammad Behesht Aien's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Big13ang&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🚀 Published release [test](https://github.com/Big13ang/Digital-clock/releases/tag/test) in [Big13ang/Digital-clock](https://github.com/Big13ang/Digital-clock)
-<!--END_SECTION:activity-->
-  
+
 </details>
 
 <!-- Spotify :) -->
-
+&nbsp;<div align="center">
+🎸Code Rhythms<br><br>
 [![Spotify](https://spotify-now-playing-git-main-mmd-ayin.vercel.app/api/spotify)](https://open.spotify.com/user/31z4draopxax3fb7txladmkqrsqq)
+</div>
