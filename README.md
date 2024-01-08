@@ -120,7 +120,8 @@
 </details>
 
 <!-- Spotify :) -->
+<h3>🎸Code Rhythms<br><br></h3>
 &nbsp;<div align="center">
-🎸Code Rhythms<br><br>
+
 [![Spotify](https://spotify-now-playing-git-main-mmd-ayin.vercel.app/api/spotify)](https://open.spotify.com/user/31z4draopxax3fb7txladmkqrsqq)
 </div>
