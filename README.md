@@ -14,9 +14,6 @@
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
-    <a href="https://github.com/Big13ang/world-wise">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Big13ang&repo=world-wise&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="World-wise project">
-    </a>
     <a href="https://github.com/Big13ang/mapty">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Big13ang&repo=mapty&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Mapty project">
     </a>
@@ -24,8 +21,10 @@
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Big13ang&repo=Digital-clock&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Digital clock">
     </a>
     <a href="https://github.com/Big13ang/React-Quiz">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Big13ang&repo=React-Quiz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="React Quiz">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Big13ang&repo=React-Quiz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="React-Quiz project">
     </a>
+    <a href="https://github.com/Big13ang/world-wise">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Big13ang&repo=world-wise&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="world-wise clock">
   </p>
 
   <p align="left">
