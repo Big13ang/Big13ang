@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Big13ang/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20developer;Experienced%20React%2and%2Next.JS%20Developer;18%2B%20months%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20developer;React%20and%20Next%20JS%20Developer;18%2B%20months%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
