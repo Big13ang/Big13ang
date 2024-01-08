@@ -32,7 +32,7 @@
   </p>
 </details>
 
-<details> 
+<details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -85,7 +85,7 @@
   </p>
 </details>
 
-<details> 
+<details open> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
